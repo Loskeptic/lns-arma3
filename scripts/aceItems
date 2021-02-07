@@ -1,0 +1,41 @@
+BACKPACKS ace_gunbag
+"ace_gunbag"
+
+BINOCULARS ace_vector
+"ACE_VectorDay"
+"ACE_Vector"
+"ACE_Yardage450" ace_yardage450
+
+USABLE 
+"ACE_M14" ace_grenades
+
+"ACE_adenosine" ace_medical
+"ACE_atropine"
+"ACE_fieldDressing",
+"ACE_elasticBandage",
+"ACE_quikclot",
+"ACE_bloodIV",
+"ACE_bloodIV_250",
+"ACE_bloodIV_500",
+"ACE_epinephrine",
+"ACE_morphine",
+"ACE_packingBandage",
+"ACE_personalAidKit",
+"ACE_plasmaIV",
+"ACE_plasmaIV_250",
+"ACE_plasmaIV_500",
+"ACE_salineIV",
+"ACE_salineIV_250",
+"ACE_salineIV_500",
+"ACE_surgicalKit",
+"ACE_tourniquet"
+
+"ACE_Cellphone", ace_explosives
+"ACE_DeadManSwitch",
+"ACE_Clacker",
+"ACE_M26_Clacker",
+
+"ACE_EntrenchingTool", ace_trenches
+
+"ACE_Flashlight_MX991", ace_flashlights
+"ACE_Flashlight_XL50"
